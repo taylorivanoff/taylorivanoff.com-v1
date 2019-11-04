@@ -18,8 +18,8 @@
             </p>
           </div>
           <div class="px-6 py-4">
-            <a class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded shadow-lg" target="_blank" href="https://bug-tracker.taylorivanoff.com/">View Project</a>
-            <a class="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-6 rounded shadow-lg"  target="_blank" href="https://github.com/taylorivanoff/bug-tracker">GitHub</a>
+            <a class="inline-block bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded shadow-lg mr-2 mb-2" target="_blank" href="https://bug-tracker.taylorivanoff.com/">View Project</a>
+            <a class="inline-block bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-6 rounded shadow-lg mr-2 mb-2"  target="_blank" href="https://github.com/taylorivanoff/bug-tracker">GitHub</a>
           </div>
           <div class="px-6 py-4">
             <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#laravel</span>
@@ -39,7 +39,7 @@
             </p>
           </div>
           <div class="px-6 py-4">
-            <a class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded shadow-lg"  target="_blank" href="https://beard-tracker.taylorivanoff.com/">View Project</a>
+            <a class="inline-block bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded shadow-lg mr-2 mb-2"  target="_blank" href="https://beard-tracker.taylorivanoff.com/">View Project</a>
           </div>
           <div class="px-6 py-4">
             <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#ios</span>
@@ -59,9 +59,8 @@
             </p>
           </div>
           <div class="px-6 py-4">
-            <a class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded shadow-lg"  target="_blank" href="https://store.taylorivanoff.com/">View Project</a>
-
-            <a class="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-6 rounded shadow-lg"  target="_blank" href="https://github.com/taylorivanoff/store">GitHub</a>
+            <a class="inline-block bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded shadow-lg mr-2 mb-2"  target="_blank" href="https://store.taylorivanoff.com/">View Project</a>
+            <a class="inline-block bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-6 rounded shadow-lg mr-2 mb-2"  target="_blank" href="https://github.com/taylorivanoff/store">GitHub</a>
           </div>
           <div class="px-6 py-4">
             <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#biodegradable</span>
@@ -81,8 +80,8 @@
             </p>
           </div>
           <div class="px-6 py-4">
-            <a class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded shadow-lg"   target="_blank" href="https://gcode-batch-tool.taylorivanoff.com/">View Project</a>
-            <a class="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-6 rounded shadow-lg"  target="_blank" href="https://github.com/taylorivanoff/gcode-batch-tool">GitHub</a>
+            <a class="inline-block bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded shadow-lg mr-2 mb-2"   target="_blank" href="https://gcode-batch-tool.taylorivanoff.com/">View Project</a>
+            <a class="inline-block bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-6 rounded shadow-lg mr-2 mb-2"  target="_blank" href="https://github.com/taylorivanoff/gcode-batch-tool">GitHub</a>
           </div>
           <div class="px-6 py-4">
             <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#gcode</span>
@@ -91,10 +90,6 @@
           </div>
         </div>
       </div>
-
-
-
-
   </div>
 </div>
 </template>
