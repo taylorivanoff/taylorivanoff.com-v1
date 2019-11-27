@@ -1,3 +1,22 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+html {
+    @apply font-display;
+}
+
+p {
+    @apply font-body;
+}
+
+section {
+	@apply py-6 flex-none mr-16;
+}
+
+.project-link {
+	@apply inline-block bg-blue-500 text-white font-bold py-2 px-6 rounded mr-2 my-4 float-right;
+}
+.project-link:hover {
+    @apply bg-blue-700;
+}
