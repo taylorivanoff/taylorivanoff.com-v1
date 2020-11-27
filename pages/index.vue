@@ -47,7 +47,7 @@ export default {
           'demo': false,
           'image': '/img/scanner.png',
           'desc': 'ASX stock scanner that provides realtime data about stocks that are opening at higher price and have news for the day.',
-          'url': 'https://asx-scanner.taylorivanoff.com/',
+          'url': 'https://stock-scanner.taylorivanoff.com/',
           'tags': [
             'markets',
             'realtime',
@@ -71,7 +71,7 @@ export default {
           'demo': true,
           'image': '/img/consulting.png',
           'desc': 'Short-term booking system that would allow a client to book a time that is also convenient for a service provider.',
-          'url': 'https://consulting.taylorivanoff.com/',
+          'url': 'https://appointments.taylorivanoff.com/',
           'tags': [
             'booking',
             'timezones',
@@ -83,7 +83,7 @@ export default {
           'demo': false,
           'image': '/img/gcode.png',
           'desc': 'Tool that splices .gcode files in order to potentially automate a 3D additive printing production line.',
-          'url': 'https://gcode-batch-tool.taylorivanoff.com/',
+          'url': 'https://gcode-splicer.taylorivanoff.com/',
           'tags': [
             'gcode',
             'automation',
