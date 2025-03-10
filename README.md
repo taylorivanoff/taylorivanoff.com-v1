@@ -1,6 +1,4 @@
-# projects
-
-> My peachy Nuxt.js project
+# taylorivanoff.com-v1
 
 ## Build Setup
 
